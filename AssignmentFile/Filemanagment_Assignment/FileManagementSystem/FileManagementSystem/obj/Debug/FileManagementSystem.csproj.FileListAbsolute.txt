@@ -1,0 +1,11 @@
+C:\Users\PC\OneDrive\Desktop\AssignmentFile\FileManagementSystem\FileManagementSystem\bin\Debug\FileManagementSystem.exe.config
+C:\Users\PC\OneDrive\Desktop\AssignmentFile\FileManagementSystem\FileManagementSystem\bin\Debug\FileManagementSystem.exe
+C:\Users\PC\OneDrive\Desktop\AssignmentFile\FileManagementSystem\FileManagementSystem\bin\Debug\FileManagementSystem.pdb
+C:\Users\PC\OneDrive\Desktop\AssignmentFile\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\AssignmentFile\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.Form1.resources
+C:\Users\PC\OneDrive\Desktop\AssignmentFile\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\AssignmentFile\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\AssignmentFile\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\AssignmentFile\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.exe
+C:\Users\PC\OneDrive\Desktop\AssignmentFile\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.pdb
+C:\Users\PC\OneDrive\Desktop\AssignmentFile\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.exe.config
